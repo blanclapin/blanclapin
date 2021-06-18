@@ -1,8 +1,9 @@
 # Bonjour bonjour !
 
-J'ai commencé la programmation en réalisant quelques prototypes de jeux-vidéo avec la suite de logiciels RPG Maker. C'est tout naturellement que j'ai rejoint le projet RPG Maker Extender (https://rmex.github.io/) dès ses premières versions et y ai contribué en plus de l'utiliser
+J'ai commencé la programmation en réalisant quelques prototypes de jeux-vidéo avec la suite de logiciels RPG Maker.
+C'est tout naturellement que j'ai rejoint le projet **[RPG Maker Extender](https://rmex.github.io/)** dès ses premières versions et y ai contribué en plus de l'utiliser, notamment pour en faire remonter le moindre bug et suggérer de nombreuses features complémentaires
 
-- Voici quelques exemples de ce que j'ai pu implémenter avec *Ruby, RGSS (le moteur d'RPG Maker) et RME* :
+- Voici quelques exemples de ce que j'ai pu implémenter avec *Ruby, RGSS (le moteur d'RPG Maker, dont les scripts se rédigent en Ruby) et RME* :
 
 
 ### Un Pacman (avec des fantômes intelligents, grâce au pathfinder [Invenio](https://www.youtube.com/watch?v=UDLRea_pmz8))
@@ -28,5 +29,5 @@ J'ai commencé la programmation en réalisant quelques prototypes de jeux-vidéo
 
 ## J'étudie actuellement à @Epitech Paris afin de me perfectionner et souhaite faire de mon hobby ma profession 🙂
 
-J'aimerais tout particulièrement reprendre la programmation en Ruby, qui est un langage avec lequel je me suis beaucoup amusé.
-Je programme également en C, JS, Python et Javascript.
+J'aimerais tout particulièrement reprendre la programmation en **Ruby**, qui est un langage avec lequel je me suis beaucoup amusé.
+Je programme également en **C, Go, JS, Python et Javascript**.
