@@ -34,5 +34,6 @@ Je programme également en **C, Go, JS, Python et Javascript**.
 
 ## Quelques exempls de projets réalisés à Epitech
 
-### Un prototype de jeu de plateforme (en C et en CSFML, projet réalisé en 1 semaine) - Cliquer sur la miniature pour lancer la vidéo
+### Un prototype de jeu de plateforme (en C et en CSFML, projet réalisé en 1 semaine)
+#### - Cliquer sur la miniature pour lancer la vidéo
 [![MyRunner - Epitech 2020](https://i9.ytimg.com/vi_webp/haITCqo14J4/mqdefault.webp?sqp=CJzK54YG&rs=AOn4CLB61eoISdiGM8OBNquO3wkU9eTS2A)](https://www.youtube.com/watch?v=haITCqo14J4)
