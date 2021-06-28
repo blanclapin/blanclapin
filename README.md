@@ -42,10 +42,10 @@ Je programme également en **C, Go, JS, Python et Javascript**.
 - Multi-parallaxes (le mur en image de fond, et les deux tiles du bas de la map, le sol, sur lequel le joueur marche sont des parallaxes et ne sont pas inhérents au fichier map. Pour ce qui est du sol, je souhaitais implémenter un parallax qui défile parfaitement avec l'écran.)
 - Fog (parallax en avant-plan)
 
-### Un prototype de Tower Defense (en C et en CSFML, projet réalisé en 2 semaines avec @hollitizz)
+### Un prototype de Tower Defense (en C et en CSFML, projet réalisé en 2 semaines avec [!@hollitizz](https://github.com/hollitizz))
 #### - Cliquer sur la miniature pour lancer la vidéo
 ((Vidéo à venir, mon PC n'est pas assez performant pour procéder à la capture))
 - Gestion de Tileset ingame
 - Calcul dynamique de l'itinéraire des ennemis
 - Menu de cheat
-- Merci à @hollitizz pour les éléments d'UX, notamment : l'écran titre, le menu de pause, le menu des paramètres, le *How To Play* ; ainsi que pour la capture vidéo
+- Merci à [!@hollitizz](https://github.com/hollitizz) pour les éléments d'UX, notamment : l'écran titre, le menu de pause, le menu des paramètres, le *How To Play* ; ainsi que pour la capture vidéo
