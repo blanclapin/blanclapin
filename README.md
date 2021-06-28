@@ -27,7 +27,7 @@ C'est tout naturellement que j'ai rejoint le projet **[RPG Maker Extender](https
 ### Juste un peu de ripping et d'intégration de ressources graphiques
 ![LA](https://user-images.githubusercontent.com/72009188/122585875-43eb6100-d05c-11eb-8d21-6b762c7ae987.gif)
 
-## J'étudie actuellement à @Epitech Paris afin de me perfectionner et souhaite faire de mon hobby ma profession 🙂
+## J'étudie actuellement à [@Epitech Paris](https://www.epitech.eu/fr/ecole-informatique-paris/) afin de me perfectionner et souhaite faire de mon hobby ma profession 🙂
 
 J'aimerais tout particulièrement reprendre la programmation en **Ruby**, qui est un langage avec lequel je me suis beaucoup amusé.
 Je programme également en **C, Go, JS, Python et Javascript**.
