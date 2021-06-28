@@ -38,4 +38,4 @@ Je programme également en **C, Go, JS, Python et Javascript**.
 #### - Cliquer sur la miniature pour lancer la vidéo
 [![MyRunner - Epitech 2020](https://i9.ytimg.com/vi_webp/haITCqo14J4/mqdefault.webp?sqp=CJzK54YG&rs=AOn4CLB61eoISdiGM8OBNquO3wkU9eTS2A)](https://www.youtube.com/watch?v=haITCqo14J4)
 - Gestion de Tileset ingame (il y a juste un tile sur lequel il manque un pixel, je n'ai pas filmé la version la plus à jour dans laquelle ça avait été corrigé... sorry!)
-- Fichier de map de config 
+- Fichier de config pour la map (le jeu ne laggue pas, même si la map est immense : elle est mise en cache à l'initialisation du jeu et seules les collisions des éléments à l'écran sont calculées)
