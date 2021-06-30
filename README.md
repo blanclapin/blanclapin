@@ -44,7 +44,7 @@ Je programme également en **C, Go, JS, Python et Javascript**.
 
 ### Un prototype de Tower Defense (en C et en CSFML, projet réalisé en 2 semaines avec [@hollitizz](https://github.com/hollitizz))
 #### - Cliquer sur la miniature pour lancer la vidéo
-((Vidéo à venir, mon PC n'est pas assez performant pour procéder à la capture))
+[![MyDefender - Epitech 2021](https://i.ibb.co/hcBPs7r/Nouveau-projet.png)](https://www.youtube.com/watch?v=T_LnBrIZlgo)
 - Gestion de Tileset ingame
 - Calcul dynamique de l'itinéraire des ennemis
 - Menu de cheat
